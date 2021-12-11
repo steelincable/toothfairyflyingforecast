@@ -1,0 +1,7 @@
+title: Tooth Fairy Flying Forecast
+author: Fairy Mother
+description: > # this means to ignore newlines until "baseurl:"
+  Will the tooth fairy be flying?
+# theme: minima
+
+show_excerpts: false # set to false to remove excerpts on the homepage
